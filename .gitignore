@@ -1,0 +1,23 @@
+# Organizational configuration must not be committed.
+exports/
+artifacts/
+logs/
+TestResults/
+coverage/
+manifest.json
+objects.json
+mappings.json
+NEXT-STEPS.txt
+last-preview.json
+*.journal.json
+sit-*.xml
+prepared-*.xml
+*.log
+*.tmp
+*.clixml
+*.pfx
+*.p12
+*.key
+.env
+.env.*
+!.env.example
